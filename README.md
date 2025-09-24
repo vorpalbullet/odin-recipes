@@ -2,3 +2,4 @@
 
 Consists of a main index page with links to a few recipes.
 
+Demonstrates practical knowledge of basic HTML.
