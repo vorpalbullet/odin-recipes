@@ -44,6 +44,9 @@ p {
 
 .nav-bar {
   font-weight: 800;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .nav-bar > a {
